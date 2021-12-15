@@ -14,3 +14,5 @@ const Navbar = () => {
 }
 
 export default Navbar;
+
+// import css style from external css file
